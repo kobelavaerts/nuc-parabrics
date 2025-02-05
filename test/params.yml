@@ -1,0 +1,4 @@
+logdir: testout/logs
+outdir: testout/out
+samplesheet: test/samplesheet.csv
+optdist: 2400
